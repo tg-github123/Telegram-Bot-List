@@ -22,6 +22,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 - [Renamer_ProBot](https://t.ME/Renamer_ProBot)
 - [mwk_renamebot](https://t.me/mwk_renamebot): MwK Rename + Coverter Bot v1
 - [mwk_rename2bot](https://t.me/mwk_rename2bot): Rename / Conversion Bot V2
+- [File Renamer Bot](https://t.me/Rename_Ek_Bot): Rename + Convert With Permanent Thumbnail Support
 
 ---
 
@@ -36,12 +37,14 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 ## QR Code Bots
 
 - [FnQRCodeBot](https://telegram.me/FnQRCodeBot): A QR Code encoder and decoder telegram bot
+- [Qr Ek Bot](https://telegram.me/Qr_ek_bot): A Simple QR-Code Generator & Scanner Bot
 
 ---
 
 ## Telegraph Uploaders
 
 - [FnTelegraphBot](https://telegram.me/FnTelegraphBot): A photo or video to telegra.ph link uploader telegram bot
+- [EK Telegraph Bot](https://telegram.me/Tele_ek_bot): Photo,gif,video uploader to telegra.ph
 
 ---
 
@@ -73,6 +76,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 ## Country Info Bots
 
 - [FnCountryInfoBot](https://telegram.me/FnCountryInfoBot): A country information finder telegram bot
+- [County Info Search Bot](https://t.me/Ek_Country_Bot): A Bot That Can Help You To Find Information About Countries.
 
 ---
 
@@ -85,6 +89,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 ## URL Shortners
 
 - [FnURLShortBot](https://telegram.me/FnURLShortBot): A link shortner telegram bot
+- [URLs Short Bot](https://telegram.me/EK_Link_Short_Bot) A Bot That Can Shorts Links To da.gd
 
 ---
 
@@ -129,6 +134,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 - [YouTubeDL_V2Bot](https://t.me/YouTubeDL_V2Bot)
 - [mwk_youtubebot](https://t.me/mwk_youtubebot): MwK youtube downloader bot version 1
 - [Utube_downloadbot](https://telegram.me/Utube_downloadbot): A youtube downloader bot
+- [YouTube Downloader](https://t.me/EK_YouTube_DL_Bot): A Bot That Helps You To Download YouTube Videos
 
 ---
 
@@ -160,5 +166,17 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 
 - [chnlidbot](https://t.me/chnlidbot): To get channel ID of channels 
 - [Footer_Bot](https://t.me/Footer_Bot): To add footer text in channel posts
+
+---
+
+## PDF Bots
+
+- [PDF BOT](https://t.me/EK_PDF_BOT): A Image To PDF Converter Bot
+
+---
+
+## Font Bots
+
+- [Font Generator Bot](https://t.me/EK_Font_Gen_Bot): Bot Will Generate Awesome Fonts For Your Texts.
 
 ---
