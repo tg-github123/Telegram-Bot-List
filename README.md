@@ -154,3 +154,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 - [MhtCetMaterialsBot](https://t.me/MhtCetMaterialsBot)
 
 ---
+
+> **Note:** Please add your bots via sending pull requests with description.
+
+---
