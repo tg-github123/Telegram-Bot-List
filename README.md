@@ -75,9 +75,15 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 
 ---
 
-## Stream Bot 
+## Stream Bots
 
 - [FnStreamBot](https://telegram.me/FnStreamBot)
+
+---
+
+## URL Shortners
+
+- [FnURLShortBot](https://telegram.me/FnURLShortBot)
 
 ---
 
