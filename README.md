@@ -151,6 +151,6 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 
 ## Study Material Bots
 
-- [MHT-CET STUDY MATERIAL BOT](https://t.me/MhtCetMaterialsBot)
+- [MhtCetMaterialsBot](https://t.me/MhtCetMaterialsBot)
 
 ---
