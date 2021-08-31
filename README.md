@@ -83,25 +83,25 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 
 ## URL Shortners
 
-- [FnURLShortBot](https://telegram.me/FnURLShortBot)
+- [FnURLShortBot](https://telegram.me/FnURLShortBot): A link shortner telegram bot
 
 ---
 
 ## Watermark Bots
 
-- [FnWatermarkBot](https://telegram.me/FnWatermarkBot)
+- [FnWatermarkBot](https://telegram.me/FnWatermarkBot): Watermark in a video added telegram bot
 
 ---
 
 ## Movie Bots 
 
-- [FnMovieBot](https://telegram.me/FnMovieBot)
+- [FnMovieBot](https://telegram.me/FnMovieBot): A movie information finder telegram bot
 
 ---
 
 ## Translator Bots 
 
-- [FnTranslateBot](https://telegram.me/FnTranslateBot)
+- [FnTranslateBot](https://telegram.me/FnTranslateBot): A language translator telegram bot
 
 ---
 
