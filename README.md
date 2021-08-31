@@ -127,7 +127,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 
 - [YouTubeDL_V2Bot](https://t.me/YouTubeDL_V2Bot)
 - [mwk_youtubebot](https://t.me/mwk_youtubebot): MwK youtube downloader bot version 1
-- [Utube Download](https://telegram.me/Utube_downloadbot)
+- [Utube_downloadbot](https://telegram.me/Utube_downloadbot): A youtube downloader bot
 
 ---
 
