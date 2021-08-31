@@ -89,13 +89,13 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 
 ## Watermark Bots
 
-[FnWatermarkBot](https://telegram.me/FnWatermarkBot)
+- [FnWatermarkBot](https://telegram.me/FnWatermarkBot)
 
 ---
 
 ## Movie Bots 
 
-[FnMovieBot](https://telegram.me/FnMovieBot)
+- [FnMovieBot](https://telegram.me/FnMovieBot)
 
 ---
 
