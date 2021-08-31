@@ -20,8 +20,8 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 
 - [FnRenameBot](https://telegram.me/FnRenameBot): Telegram file or media rename bot with permanent thumbnail saving support
 - [Renamer_ProBot](https://t.ME/Renamer_ProBot)
-- [MwK Rename + Coverter Bot v1](https://t.me/mwk_renamebot)
-- [Rename / Conversion Bot V2](https://t.me/mwk_rename2bot)
+- [mwk_renamebot](https://t.me/mwk_renamebot): MwK Rename + Coverter Bot v1
+- [mwk_rename2bot](https://t.me/mwk_rename2bot): Rename / Conversion Bot V2
 
 ---
 
@@ -126,7 +126,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 ## YouTube Bot
 
 - [YouTubeDL_V2Bot](https://t.me/YouTubeDL_V2Bot)
-- [MwK YouTube Downloader #V1](https://t.me/mwk_youtubebot)
+- [mwk_youtubebot](https://t.me/mwk_youtubebot): MwK youtube downloader bot version 1
 - [Utube Download](https://telegram.me/Utube_downloadbot)
 
 ---
