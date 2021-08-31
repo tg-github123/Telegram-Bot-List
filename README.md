@@ -23,6 +23,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 - [mwk_renamebot](https://t.me/mwk_renamebot): MwK Rename + Coverter Bot v1
 - [mwk_rename2bot](https://t.me/mwk_rename2bot): Rename / Conversion Bot V2
 - [Rename_Ek_Bot](https://t.me/Rename_Ek_Bot): Rename + Convert With Permanent Thumbnail Support
+- [Renameravbot](https://t.me/RenamerAVbot): Rename, Convert, Custom Caption with Permanent Thumbnail Support 
 
 ---
 
@@ -45,13 +46,14 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 
 - [FnTelegraphBot](https://telegram.me/FnTelegraphBot): A photo or video to telegra.ph link uploader telegram bot
 - [Tele_ek_bot](https://telegram.me/Tele_ek_bot): Photo,gif,video uploader to telegra.ph
+- [AVTelegraphBot](https://t.me/AVTelegraphBot): Image, Gif, Video uploader to telegra.ph 
 
 ---
 
 ## Image Editor Bots 
 
 - [FnImageEditBot](https://telegram.me/FnImageEditBot): An image editor telegram bot supported various modes
-
+- [ImageEditAVBot](https://t.me/ImageEditAVBot)
 ---
 
 ## Video Extractor Bots 
@@ -64,12 +66,20 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 
 - [FnTelegramStoreBot](https://telegram.me/FnTelegramStoreBot): Telegram messages store to sharable link bot support channel also
 - [StoracheBot](https://telegram.me/StoracheBot)
+- [FileStoreAVBot](https://t.me/FileStoreAVBot)
 
 ---
 
 ## Attach Bots
 
 - [FnAttachBot](https://telegram.me/FnAttachBot): A link in a message attach telegram bot
+
+---
+
+## Forward Tag Remover Bots
+
+- [AnonymizeAVBot](https://t.me/AnonymizeAVBot): To Remove Forwarded Tags in Private as well as in group chats. 
+- [ForwarderAVBot](https://t.me/ForwarderAVBot): To Remove Forwarded Tags directly from the channels with many extra features. 
 
 ---
 
@@ -117,6 +127,12 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 
 ---
 
+## Video Merger Bots
+
+- [VideoMergeAVBot](https://t.me/VideoMergeAVBot)
+
+---
+
 ## Video Compress Bot
 
 - [VideoCompressProBot](https://t.me/VideoCompressProBot)
@@ -159,6 +175,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 ## Study Material Bots
 
 - [MhtCetMaterialsBot](https://t.me/MhtCetMaterialsBot)
+- [LibrarianOfficialNotesBot](https://t.me/LibrarianOfficialNotesBot) 
 
 ---
 
