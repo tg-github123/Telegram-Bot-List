@@ -93,6 +93,12 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 
 ---
 
+## Movie Bots 
+
+[FnMovieBot](https://telegram.me/FnMovieBot)
+
+---
+
 ## AI Bots
 
 - [ErzaChat_bot](https://telegram.me/ErzaChat_bot)
