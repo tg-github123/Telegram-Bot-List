@@ -52,13 +52,13 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 
 ## Video Extractor Bots 
 
-- [FnExtractBot](https://telegram.me/FnExtractBot):  Audio or subtitle extractor from a telegram video
+- [FnExtractBot](https://telegram.me/FnExtractBot): Audio or subtitle extractor from a telegram video
 
 ---
 
 ## Store Bots
 
-- [FnTelegramStoreBot](https://telegram.me/FnTelegramStoreBot)
+- [FnTelegramStoreBot](https://telegram.me/FnTelegramStoreBot): Telegram messages store to sharable link bot support channel also
 - [StoracheBot](https://telegram.me/StoracheBot)
 
 ---
