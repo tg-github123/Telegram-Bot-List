@@ -29,6 +29,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 
 - [FnURLUploadBot](https://telegram.me/FnURLUploadBot): A url upload to telegram files or media with permanent thumbnail support
 - [UrlUploader_XBot](https://t.me/UrlUploader_XBot)
+- [Uploadbot](https://telegram.me/UploadBot)
 
 ---
 
@@ -152,6 +153,12 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 ## Study Material Bots
 
 - [MhtCetMaterialsBot](https://t.me/MhtCetMaterialsBot)
+
+---
+
+## Channel utilities Bots
+- [Channel id bot](https://t.me/chnlidbot):To get channel ID of channels 
+- [Footer adder Bot](https://t.me/Footer_Bot)
 
 ---
 
