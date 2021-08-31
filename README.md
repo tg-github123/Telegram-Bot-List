@@ -46,7 +46,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 
 ## Image Editor Bots 
 
-- [FnImageEditBot](https://telegram.me/FnImageEditBot)
+- [FnImageEditBot](https://telegram.me/FnImageEditBot): An image editor telegram bot supported various modes
 
 ---
 
