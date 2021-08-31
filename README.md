@@ -11,14 +11,14 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 
 ## Converter Bots
 
-- [FnConvertBot](https://telegram.me/FnConvertBot)
+- [FnConvertBot](https://telegram.me/FnConvertBot): Telegram file or media converter with permanent thumbnail saving support
 - [Converter_ProBot](https://t.me/Converter_ProBot)
 
 ---
 
 ## Rename Bots
 
-- [FnRenameBot](https://telegram.me/FnRenameBot)
+- [FnRenameBot](https://telegram.me/FnRenameBot): Telegram file or media rename bot with permanent thumbnail saving support
 - [Renamer_ProBot](https://t.ME/Renamer_ProBot)
 - [MwK Rename + Coverter Bot v1](https://t.me/mwk_renamebot)
 - [Rename / Conversion Bot V2](https://t.me/mwk_rename2bot)
@@ -27,7 +27,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 
 ## URL Uploaders
 
-- [FnURLUploadBot](https://telegram.me/FnURLUploadBot)
+- [FnURLUploadBot](https://telegram.me/FnURLUploadBot): A url upload to telegram files or media with permanent thumbnail support
 - [UrlUploader_XBot](https://t.me/UrlUploader_XBot)
 
 ---
