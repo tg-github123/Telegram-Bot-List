@@ -87,6 +87,12 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 
 ---
 
+## Watermark Bots
+
+[FnWatermarkBot](https://telegram.me/FnWatermarkBot)
+
+---
+
 ## AI Bots
 
 - [ErzaChat_bot](https://telegram.me/ErzaChat_bot)
