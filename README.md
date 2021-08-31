@@ -52,7 +52,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 
 ## Video Extractor Bots 
 
-- [FnExtractBot](https://telegram.me/FnExtractBot)
+- [FnExtractBot](https://telegram.me/FnExtractBot):  Audio or subtitle extractor from a telegram video
 
 ---
 
