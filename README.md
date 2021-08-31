@@ -34,7 +34,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 
 ## QR Code Bots
 
-- [FnQRCodeBot](https://telegram.me/FnQRCodeBot)
+- [FnQRCodeBot](https://telegram.me/FnQRCodeBot): A QR Code encoder and decoder telegram bot
 
 ---
 
