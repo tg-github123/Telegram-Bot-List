@@ -40,7 +40,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 
 ## Telegraph Uploaders
 
-- [FnTelegraphBot](https://telegram.me/FnTelegraphBot)
+- [FnTelegraphBot](https://telegram.me/FnTelegraphBot): A photo or video to telegra.ph link uploader telegram bot
 
 ---
 
