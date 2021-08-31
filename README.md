@@ -65,19 +65,19 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 
 ## Attach Bots
 
-- [FnAttachBot](https://telegram.me/FnAttachBot)
+- [FnAttachBot](https://telegram.me/FnAttachBot): A link in a message attach telegram bot
 
 ---
 
 ## Country Info Bots
 
-- [FnCountryInfoBot](https://telegram.me/FnCountryInfoBot)
+- [FnCountryInfoBot](https://telegram.me/FnCountryInfoBot): A country information finder telegram bot
 
 ---
 
 ## Stream Bots
 
-- [FnStreamBot](https://telegram.me/FnStreamBot)
+- [FnStreamBot](https://telegram.me/FnStreamBot): A file or media to instant download link telegram bot
 
 ---
 
