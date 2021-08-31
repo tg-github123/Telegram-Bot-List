@@ -156,9 +156,10 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 
 ---
 
-## Channel utilities Bots
-- [Channel id bot](https://t.me/chnlidbot):To get channel ID of channels 
-- [Footer adder Bot](https://t.me/Footer_Bot)
+## Channel Utilities Bots
+
+- [chnlidbot](https://t.me/chnlidbot): To get channel ID of channels 
+- [Footer_Bot](https://t.me/Footer_Bot): To add footer text in channel posts
 
 ---
 
