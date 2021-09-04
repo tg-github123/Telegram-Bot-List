@@ -124,3 +124,8 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 - [MHT-CET STUDY MATERIAL BOT](https://t.me/MhtCetMaterialsBot)
 
 ---
+## Translators
+
+- [Google Translator](https://telegram.me/Google_TranslatorBot)
+
+---
